@@ -1,0 +1,6 @@
+langchain
+openai
+tiktoken
+chainlit==0.5.2
+news-please
+duckduckgo_search
