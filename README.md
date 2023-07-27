@@ -3,7 +3,11 @@
 Welcome to ResearchAgent!
 ResearchAgent is not just any web search tool – it's your personal research assistant powered by the mighty GPT-3.5/GPT-4 at its core. It not only provides concise and accurate answers but also offers references to the extracted data sources. With its memory capabilities, you can ask follow-up questions, enabling a continuous flow of insightful conversations.
 
-https://github.com/Shivanandroy/ResearchAgent/assets/25221992/6c498457-eeb7-4ffe-ba00-210de8f623ce
+
+
+
+https://github.com/Shivanandroy/ResearchAgent/assets/25221992/d9e1740c-339b-4f2b-b38f-8476164cb3f0
+
 
 
 ### Installation
