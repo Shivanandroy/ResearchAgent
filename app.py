@@ -18,6 +18,8 @@ from newsplease import NewsPlease
 import time
 from duckduckgo_search import DDGS
 from itertools import islice
+from dotenv import load_dotenv
+load_dotenv()
 
 
 def search(query, max_retries=5):
